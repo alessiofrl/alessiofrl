@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm alessio</h1>
 <h3 align="center">A passionate python developer</h3>
 
-- 📫 How to reach me **alessio.frl@icloud.com**
+- 📫 contact me on discord rey#5678
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
