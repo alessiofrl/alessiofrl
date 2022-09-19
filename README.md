@@ -15,5 +15,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/348548869996412932)](https://discord.com/users/348548869996412932)
 <br/>
